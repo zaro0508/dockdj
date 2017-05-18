@@ -39,3 +39,6 @@ environments/*/pyvenv
 # Built testing and static asset artifacts
 app/dist
 _SpecRunner.html
+
+# jetbrains ide
+.idea/
